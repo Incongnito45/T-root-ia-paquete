@@ -18,7 +18,7 @@ T-root es una herramienta que utiliza proot para simular los privilegios root, u
 * ` pkg install -y git `
 * ` pkg install -y proot `
 * ` termux-setup-storage `
-* ` git clone `
+* ` git clone https://github.com/Incongnito45/T-root-ia-paquete`
 * ` cd T-root`
 * ` bash install.sh `
 * ` ./start ` 
