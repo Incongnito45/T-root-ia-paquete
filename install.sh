@@ -21,7 +21,7 @@ sleep 0.0
 echo
 printf "$A[$b1+$A]${b1} Creador:$a     Alex García.git\n"
 printf "$A[$b1+$A]${b1} Herramienta:$a T-root\n"
-printf "$A[$b1+$A]${b1} GitHub:$a      \n"
+printf "$A[$b1+$A]${b1} GitHub:$a    https://github.com/Incongnito45  \n"
 printf "$A[$b1+$A]${b1} YouTube:$a     \n"
 echo
 sleep 0.3
@@ -83,7 +83,7 @@ printf "$A[$b1+$A]${b1} Finalizado..!\n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} Creador:$a Alex García Zpt\n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} GitHub:$a  \n"
+printf "$A[$b1+$A]${b1} GitHub:$a https://github.com/Incongnito45 \n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} YouTube:$a $b\n"
 sleep 0.3
