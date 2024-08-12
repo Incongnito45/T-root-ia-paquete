@@ -81,11 +81,11 @@ chmod +x * start
 sleep 0.3
 printf "$A[$b1+$A]${b1} Finalizado..!\n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} Creador:$a Anonymous Zpt\n"
+printf "$A[$b1+$A]${b1} Creador:$a Alex García Zpt\n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} GitHub:$a  https://github.com/Anonymous-Zpt\n"
+printf "$A[$b1+$A]${b1} GitHub:$a  \n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} YouTube:$a http://www.youtube.com/c/AnonymousZpt$b\n"
+printf "$A[$b1+$A]${b1} YouTube:$a $b\n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} Utiliza:$r ./start$b\n"
 sleep 0.1
