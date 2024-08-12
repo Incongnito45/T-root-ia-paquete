@@ -32,4 +32,4 @@ Para desactivarlo solo se textea exit para salir de él
 
 # Screenshot
 
- ![Imagen-Root.png](https://github.com/Anonymous-Zpt/Archivos/blob/master/Imagen-Root.png) 
+ ![Imagen-Root.png](https://github.com/Incongnito45/Capa-root.fig/blob/main/Imagen-Root.png) 
