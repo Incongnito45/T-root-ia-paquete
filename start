@@ -21,8 +21,8 @@ Adios() {
 	echo
 	printf "$A[$b1+$A]${b1} Creador:$a     Alex García Zpt\n"
 	printf "$A[$b1+$A]${b1} Herramienta:$a T-root\n"
-	printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/JoseZpt\n"
-	printf "$A[$b1+$A]${b1} YouTube:$a     http://www.youtube.com/c/Anonymous$b\n"
+	printf "$A[$b1+$A]${b1} GitHub:$a      https://github.com/Incongnito45\n"
+	printf "$A[$b1+$A]${b1} YouTube:$a     \n"
 	echo
 	exit
 }
@@ -55,7 +55,7 @@ banner1() {
 	sleep 0.4
 	printf "$A[$b1+$A]${b1} Herramienta:$a T-root\n"
 	sleep 0.4
-	printf "$A[$b1+$A]${b1} GitHub:$a      \n"
+	printf "$A[$b1+$A]${b1} GitHub:$a     https://github.com/Incongnito45 \n"
 	sleep 0.4
 	printf "$A[$b1+$A]${b1} YouTube:$a     \n"
 	sleep 4
